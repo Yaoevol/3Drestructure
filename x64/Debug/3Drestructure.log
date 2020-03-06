@@ -1,0 +1,26 @@
+﻿  stereo.cpp
+d:\vs2015\test\3drestructure\3drestructure\stereo.h(2): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  d:\vs2015\test\3drestructure\3drestructure\stereo.h(2): note: 命令行参数: 参见前面的“_CRT_SECURE_NO_WARNINGS”定义
+d:\pcl 1.8.1\include\pcl-1.8\pcl\point_traits.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\pcl 1.8.1\include\pcl-1.8\pcl\visualization\interactor_style.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\pcl 1.8.1\include\pcl-1.8\pcl\visualization\pcl_visualizer.h(1585): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2015\test\3drestructure\3drestructure\stereo.cpp(324): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\vs2015\test\3drestructure\3drestructure\stereo.cpp(465): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\vs2015\test\3drestructure\3drestructure\stereo.cpp(478): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\vs2015\test\3drestructure\3drestructure\stereo.cpp(525): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\vs2015\test\3drestructure\3drestructure\stereo.cpp(538): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\vs2015\test\3drestructure\3drestructure\stereo.cpp(908): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\pcl 1.8.1\include\pcl-1.8\pcl\visualization\impl\point_cloud_color_handlers.hpp(549): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  d:\pcl 1.8.1\include\pcl-1.8\pcl\visualization\impl\point_cloud_color_handlers.hpp(525): note: 编译类 模板 成员函数“bool pcl::visualization::PointCloudColorHandlerLabelField<pcl::PointXYZL>::getColor(vtkSmartPointer<vtkDataArray> &) const”时
+  d:\pcl 1.8.1\include\pcl-1.8\pcl\visualization\pcl_visualizer.h(907): note: 参见对正在编译的类 模板 实例化“pcl::visualization::PointCloudColorHandlerLabelField<pcl::PointXYZL>”的引用
+  d:\pcl 1.8.1\3rdparty\boost\include\boost-1_64\boost\bind\placeholders.hpp(54): note: 参见对正在编译的类 模板 实例化“boost::arg<9>”的引用
+  d:\pcl 1.8.1\3rdparty\boost\include\boost-1_64\boost\bind\placeholders.hpp(53): note: 参见对正在编译的类 模板 实例化“boost::arg<8>”的引用
+  d:\pcl 1.8.1\3rdparty\boost\include\boost-1_64\boost\bind\placeholders.hpp(52): note: 参见对正在编译的类 模板 实例化“boost::arg<7>”的引用
+  d:\pcl 1.8.1\3rdparty\boost\include\boost-1_64\boost\bind\placeholders.hpp(51): note: 参见对正在编译的类 模板 实例化“boost::arg<6>”的引用
+  d:\pcl 1.8.1\3rdparty\boost\include\boost-1_64\boost\bind\placeholders.hpp(50): note: 参见对正在编译的类 模板 实例化“boost::arg<5>”的引用
+  d:\pcl 1.8.1\3rdparty\boost\include\boost-1_64\boost\bind\placeholders.hpp(49): note: 参见对正在编译的类 模板 实例化“boost::arg<4>”的引用
+  d:\pcl 1.8.1\3rdparty\boost\include\boost-1_64\boost\bind\placeholders.hpp(48): note: 参见对正在编译的类 模板 实例化“boost::arg<3>”的引用
+  d:\pcl 1.8.1\3rdparty\boost\include\boost-1_64\boost\bind\placeholders.hpp(47): note: 参见对正在编译的类 模板 实例化“boost::arg<2>”的引用
+  d:\pcl 1.8.1\3rdparty\boost\include\boost-1_64\boost\bind\placeholders.hpp(46): note: 参见对正在编译的类 模板 实例化“boost::arg<1>”的引用
+  3Drestructure.vcxproj -> D:\VS2015\Test\3Drestructure\x64\Debug\3Drestructure.exe
+  3Drestructure.vcxproj -> D:\VS2015\Test\3Drestructure\x64\Debug\3Drestructure.pdb (Full PDB)
